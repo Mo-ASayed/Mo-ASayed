@@ -43,9 +43,8 @@ A tech enthusiast with a passion for software
 <div align = "center">
   <h2>🍃 My Contributions! 🍃</h2>
  
-                                                                                                                                                                  
-<h1 align = "center">
+                                                                                                                                                                
   <a href= "https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=30&duration=2500&pause=2000&color=3366F7&vCenter=true&random=false&width=435&lines=Thanks+for+stopping+by!%F0%9F%91%8B;Feel+free+to+reach+out!+%F0%9F%93%B2" />
   </a>
-</h1>
+</div>
