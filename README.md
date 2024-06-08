@@ -2,7 +2,7 @@
 
 <h1 align = "center">
   <a href= "https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=30&duration=2500&pause=2000&color=3366F7&vCenter=true&random=false&width=435&lines=Hi%2C+welcome+to+my+Github!;I'm+Mohammed+Sayed!. 🙂" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=30&duration=2500&pause=2000&color=3366F7&vCenter=true&random=false&width=435&lines=Hi%2C+welcome+to+my+Github!👋 ;I'm+Mohammed+Sayed! 🙂" />
   </a>
 </h1>
 
@@ -10,15 +10,15 @@
     
 A tech enthusiast with a passion for software
 
-🔭 I’m currently working as a Automation Test Engineer **Automating End To End tests**
+🔭 I’m currently working as a Automation Test Engineer **Automating End To End tests, API Testing, Testing product life cycles and implementing a CI/CD approach to Software Development Life Cycle**
 
-🌱 I’m currently learning **Docker, Git, Kubernetes, Networking fundamentals and AWS**
+🌱 I’m currently learning **Typescript, OracleDB (SQL),  Docker, Git, Kubernetes, Postmman, Networking fundamentals and AWS**
   
-🤝 I’m looking for help and guidance anything and everything **DevOps**
+🤝 I’m looking for help and guidance anything and everything **DevOps, Software Development Life Cycle, Growing on LinkedIn, Improving Github Repos and Networking**
 
-💬 Ask me about **Front-end EndToEnds, Automation Testing using TypeScript and WDIO and a passion for learning**
+💬 Ask or talk to me about **Front-end EndToEnds, Automation Testing using TypeScript and WDIO, Git, API's**
 
-⚡ Fun fact **I studied Aerospace Engineering and decided that switching to a Software focused role would be more beneficial long term!**
+⚡ Fun fact **I studied Aerospace Engineering and decided to switch to a Software focused role!**
 
 
   <a href="mailto:sayedsylvainltd@gmail.com">
@@ -42,8 +42,10 @@ A tech enthusiast with a passion for software
 
 <div align = "center">
   <h2>🍃 My Contributions! 🍃</h2>
- 
-                                                                                                                                                                
+     <div align = "center">
+               - Work in progress! Check back soon 🚧 -            
+     </div>
+  <br>
   <a href= "https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=30&duration=2500&pause=2000&color=3366F7&vCenter=true&random=false&width=435&lines=Thanks+for+stopping+by!%F0%9F%91%8B;Feel+free+to+reach+out!+%F0%9F%93%B2" />
   </a>
