@@ -8,7 +8,7 @@
 
 <div align = "center">
     
-A tech enthusiast with a passion for software
+✨ An aspiring tech enthusiast with a passion for all things software and software development! ✨
 
 🔭 I’m currently working as a Automation Test Engineer **Automating End To End tests, API Testing, Testing product life cycles and implementing a CI/CD approach to Software Development Life Cycle**
 
@@ -27,10 +27,13 @@ A tech enthusiast with a passion for software
   <a href="https://linkedin.com/in/mohammed-sayed-16112a179" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@sayedsylvainltd" target="blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
   
 </div>
 
-<h2 align="center">⚒️Languages-Frameworks-Tools!⚒️:</h2>
+<h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
 <div align = "center">
   <a href = "https://skillicons.dev">
     <img src = "https://skillicons.dev/icons?i=typescript,javascript,github,docker,jenkins,git,vscode,linux,kubernetes,idea,postman,ubuntu" /><br>
