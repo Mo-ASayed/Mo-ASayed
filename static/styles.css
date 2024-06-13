@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.question {
+    margin-bottom: 20px;
+}
+.options {
+    margin-bottom: 20px;
+}
+.correct {
+    color: green;
+}
+.incorrect {
+    color: red;
+}
