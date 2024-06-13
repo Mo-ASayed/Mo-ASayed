@@ -71,7 +71,12 @@ questions = [
         "question": "Which AWS services can host a Microsoft SQL Server database? (choose two)",
         "options": ["A. Amazon EC2", "B. Amazon Relational Database Service (Amazon RDS)", "C. Amazon Aurora", "D. Amazon Redshift", "E. Amazon S3"],
         "answer": ["A", "B"]
-    }
+    },
+    {
+    	"question": "When performing a cost analysis that supports physical isolation of acustomer workload, which compute hosting model should be accounted for in the Total Cost of Ownership (TCO)?",
+    	"options": ["A. Dedicated Hosts"", "B. Reserved Instances", C. On-Demand Instances", "D. No Upfront Reserved Instances"],
+    	"answer": ["A"]
+    },
 ]
 
 @app.route('/')
