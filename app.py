@@ -3,6 +3,7 @@ from flask import Flask, render_template, jsonify, request
 app = Flask(__name__)
 
 questions = [
+
     {
         "question": "Under the shared responsibility model which of the following is the customer responsible for?",
         "options": [
@@ -72,9 +73,9 @@ questions = [
         "options": ["A. Amazon EC2", "B. Amazon Relational Database Service (Amazon RDS)", "C. Amazon Aurora", "D. Amazon Redshift", "E. Amazon S3"],
         "answer": ["A", "B"]
     },
-    {
+    {   
     	"question": "When performing a cost analysis that supports physical isolation of acustomer workload, which compute hosting model should be accounted for in the Total Cost of Ownership (TCO)?",
-    	"options": ["A. Dedicated Hosts"", "B. Reserved Instances", C. On-Demand Instances", "D. No Upfront Reserved Instances"],
+    	"options": ["A. Dedicated Hosts", "B. Reserved Instances", "C. On-Demand Instances", "D. No Upfront Reserved Instances"],
     	"answer": ["A"]
     },
 ]
@@ -97,3 +98,4 @@ def check_answer():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
+        
