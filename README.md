@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+
+
 <div align="center">
   <p>𝗥𝗲𝗮𝗰𝗵 𝗼𝘂𝘁 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!</p>
   
@@ -20,12 +22,6 @@
   </a>
 </div>
 
----
-
-<h2>🔍 About Me</h2>
-<p>I'm a passionate tech enthusiast diving deep into the world of DevOps. My journey is focused on leveraging modern technologies to streamline development processes and enhance operational efficiency. With a strong background in creating robust software solutions, I am dedicated to exploring new tools and methodologies that drive innovation and improve software delivery. 🚀</p>
-
----
 
 <h2>⚒️ Technology Stack ⚒️</h2>
 
@@ -56,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,git,kubernetes,linux,terraform,githubactions,prometheus,postman" alt="DevOps" style="display: inline-block; vertical-align: middle;"/>
 </p>
 
+
+
 ---
 
 <h2>🏆 GitHub Trophies</h2>
@@ -64,6 +62,8 @@
 </div>
 
 ---
+
+
 
 <h2>📊 GitHub Stats</h2>
 <div>
