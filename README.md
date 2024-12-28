@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/mohammed-sayed-16112a179" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-EDE4DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@sayedsylvainltd" target="blank">
+  <a href="https://medium.com/@Mo-ASayed" target="blank">
     <img src="https://img.shields.io/badge/Medium-EDE4DB?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </div>
