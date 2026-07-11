@@ -61,7 +61,7 @@ $ cat ~/focus.txt
 | Project | Description |
 | :--- | :--- |
 | [**DockerForge**](https://github.com/Mo-ASayed/DockerForge) | Point it at a Git repo, get production-ready Dockerfiles and IaC generated for you |
-| [**EKS Order Platform**](https://github.com/Mo-ASayed/Eks-order-platform) | Cloud-native order-processing platform running on Amazon EKS |
+| [**EKS Order Platform**](https://github.com/Mo-ASayed/Eks-order-platform-v2) | Cloud-native order-processing platform running on Amazon EKS |
 | [**AWS Threat Model App**](https://github.com/Mo-ASayed/AWS-Threat-Model-App) | Cloud security threat-modelling app deployed on AWS with Terraform using ECS and CI/CD security checks |
 
 <div align="center">
