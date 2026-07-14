@@ -15,7 +15,7 @@
 
 ```bash
 $ whoami
-mohammed-sayed: Senior Platform & DevOps Engineer @ Osprey Flight Solutions
+mohammed-sayed: Platform & DevOps Engineer @ Osprey Flight Solutions
 
 $ cat ~/focus.txt
   ▸ Cloud platform engineering across Kubernetes, AWS and Azure
