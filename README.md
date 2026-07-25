@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&pause=2000&color=58A6FF&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Mo+%F0%9F%91%8B;Platform+%26+DevOps+Engineer" alt="Mohammed Sayed" />
 
-<p><b> Seasoned engineer, constantly working on and building cool ideas.</b></p>
+<p><b> Seasoned engineer, constantly building and working on new projects </b></p>
 
 <a href="mailto:sayedsylvainltd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/mohammed-sayed-16112a179"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
